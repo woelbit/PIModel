@@ -1,0 +1,8 @@
+jupyter
+jupyter_nbextensions_configurator
+matplotlib
+numpy
+pandas
+tqdm
+seaborn
+
